@@ -1,0 +1,32 @@
+1.GitHub上创建应用：
+
+2.在文件夹路径下打开git bash窗口：
+
+git init (将文件夹设置成git仓库)
+开始上传文件夹中文件到github：
+git add 文件名
+git commit -m "说明"
+git remote add origin 仓库地址（仓库地址如：git@github.com:mayleng/wcf-console.git 在GitHub上复制）  (关联远程仓库)
+
+
+git pull --rebase origin master  先pull再push（第一次更新时需要同步后才能push）
+github上没有创建readme文件时，不需要下拉同步
+
+git push -u origin master
+
+
+
+删除GitHub上文件：
+git rm  -r  --cached target  删除target文件夹 
+git commit -m  "删除了target" 
+git push origin master
+
+
+
+更新其中某一文件
+git add 文件夹名(可以是上一文件夹)
+Git commit -m "test"
+git push -u origin master
+
+
+
