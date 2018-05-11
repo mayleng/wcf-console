@@ -1,0 +1,9 @@
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleHost\bin\Debug\ConsoleHost.exe
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleHost\bin\Debug\ConsoleHost.pdb
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleHost\bin\Debug\WcfServiceLib.dll
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleHost\bin\Debug\WcfServiceLib.pdb
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleHost\obj\Debug\ConsoleHost.csprojResolveAssemblyReference.cache
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleHost\obj\Debug\ConsoleHost.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleHost\obj\Debug\ConsoleHost.exe
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleHost\obj\Debug\ConsoleHost.pdb

@@ -1,0 +1,5 @@
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\WcfServiceLib\bin\Debug\WcfServiceLib.dll
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\WcfServiceLib\bin\Debug\WcfServiceLib.pdb
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\WcfServiceLib\obj\Debug\WcfServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\WcfServiceLib\obj\Debug\WcfServiceLib.dll
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\WcfServiceLib\obj\Debug\WcfServiceLib.pdb

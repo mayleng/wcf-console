@@ -1,0 +1,6 @@
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\bonree\Desktop\webapi\wcf Console\WcfServiceLib\ConsoleClient\obj\Debug\ConsoleClient.pdb
